@@ -12,7 +12,7 @@
 
 ### Project Overview
 
-IThis data analysis project aims to provide insights into the sales performance of e-commerce company over the 2021-2023 period. By analysing various aspects of sales data I seek to identify trends that will aid in making data-driven business decisions and gaining a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales performance of e-commerce company over the 2021-2023 period. By analysing various aspects of sales data I seek to identify trends that will aid in making data-driven business decisions and gaining a deeper understanding of the company's performance.
 
 ### Business Request / User Stories
 
