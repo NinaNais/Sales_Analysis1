@@ -25,10 +25,12 @@ Business Demand Overview:
 - What is the Customer profile?
 
 User Stories:
-No #As a (role)I want (request/demand) So that I (user value) Acceptance Criteria
-1 Sales Manager To get a dashboard overview of Internet salesCan follow better which customers and products sell the best A Power BI dashboard with graphs comparing against the budget.
-2 Marketing Manager A detailed overview of Internet sales per CustomersCan follow up with the group of customers who buy the most and who we can sell more to A Power BI dashboard which gives me insight into who are our key clients and what they are buying
-3 Sales Representative A detailed overview of Internet sales per ProductsCan follow up my Products that sell the most A Power BI dashboard which allows me to filter data for each Product
+
+|No #|As a (role)|I want (request/demand)|So that I (user value)|Acceptance Criteria|
+|----|-----------|----------------------|----------------------|-------------------|
+|1| Sales Manager| To get a dashboard overview of Internet sales|Can follow better which customers and products sell the best| A Power BI dashboard with graphs comparing against the budget|
+|2| Marketing Manager| A detailed overview of Internet sales per Customers|Can follow up with the group of customers who buy the most and who we can sell more to|A Power BI dashboard which gives me insight into who are our key clients and what they are buying|
+|3| Sales Representative| A detailed overview of Internet sales per Products|Can follow up my Products that sell the most| A Power BI dashboard which allows me to filter data for each Product|
 
 ### Data Sources
 
@@ -44,9 +46,7 @@ The primary dataset for this example is the" file, which contains a detailed tra
 ### Data Cleansing & Transformation (SQL & Power Query)
 
 To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL.
-
 One data source (sales budgets) were provided in Excel format and were connected in the data model in a later step of the process.
-
 Below are the SQL statements for cleansing and transforming necessary data:
 
 FactSales:
