@@ -211,3 +211,6 @@ The sales management dashboard consists of one page functioning as a dashboard a
 
 ![Zrzut ekranu 2024-09-16 100737 — kopia](https://github.com/user-attachments/assets/d6893e97-2f2b-4378-b7bf-aad489cd0eeb)
 
+![Zrzut ekranu 2024-09-16 175523](https://github.com/user-attachments/assets/1c80a919-ac6a-4571-8cee-c082e0f065b8)
+
+![Zrzut ekranu 2024-09-16 175546](https://github.com/user-attachments/assets/ebde13bb-e8cf-4386-8a3d-787df14b43c0)
