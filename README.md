@@ -34,7 +34,7 @@ User Stories:
 
 ### Data Sources
 
-The primary dataset for this example is the" file, which contains a detailed travel agency database.
+The primary dataset for this project is the "Database_Bike.zip" file, which contains a detailed database in csv files. One data source (sales budgets) were provided in Excel format.
 
 ### Tools
 
