@@ -4,13 +4,11 @@
 ## Table of Contents
 
 - [Project Overview](#overview)
+- [Business Request/User Stories](#business-requestuser-stories)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Exploratory Data Analysis](exploratory-data-analysis)
-- [Data Analysis](#data-analysis)
-- [Results/Findings](#resultsfindings)
-- [Recomendations](#recomendations)
-- [Limitations](#limitations)
+- [Data Cleansing & Transformation (SQL & Power Query)](#data-cleansing&transformation)
+- [Results](#results)
 
 ### Project Overview
 
