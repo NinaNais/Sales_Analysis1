@@ -209,6 +209,5 @@ After loading tables into Power BI, I made several data transformations using th
 
 The sales management dashboard consists of one page functioning as a dashboard and overview, with two additional pages dedicated to combining tables for necessary details and visualizations illustrating sales per customers and per products.
 
-
-
+![Zrzut ekranu 2024-09-16 100737 — kopia](https://github.com/user-attachments/assets/d6893e97-2f2b-4378-b7bf-aad489cd0eeb)
 
