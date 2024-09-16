@@ -205,6 +205,9 @@ SELECT [DateKey]
 
 After loading tables into Power BI, I made several data transformations using the Power Query editor. For instance, I fixed the data in the "Product Subcategory" column. Initially, some cells had NULL values, while in others, the Product Subcategory did not match the Category and Product Name. I added a conditional column to fix those mismatches. Then I have created basic measures such as Revenue, Profit, Number of Customers, Margin. Additionally, I created a DAX column to prepare Age and Income Buckets required for my visualizations.
 
+### Results
+
+The sales management dashboard consists of one page functioning as a dashboard and overview, with two additional pages dedicated to combining tables for necessary details and visualizations illustrating sales per customers and per products.
 
 
 
